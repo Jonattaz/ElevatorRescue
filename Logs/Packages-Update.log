@@ -1,0 +1,11 @@
+
+=== Sun Mar 21 20:43:37 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.ads from version 3.4.4 to 3.6.1
+  com.unity.multiplayer-hlapi from version 1.0.4 to 1.0.8
+  com.unity.purchasing from version 2.0.6 to 2.2.2
+  com.unity.xr.legacyinputhelpers from version 2.0.2 to 2.1.7
